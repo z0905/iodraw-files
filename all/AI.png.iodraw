@@ -71,19 +71,19 @@
           <mxGeometry x="20" y="690" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-33" value="userid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="570" width="69" height="38" as="geometry" />
+          <mxGeometry x="259" y="481" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-34" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-35" value="sex" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="610" width="69" height="38" as="geometry" />
+          <mxGeometry x="190" y="420" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-36" value="idNum" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="620" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-37" value="section" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="620" width="69" height="38" as="geometry" />
+          <mxGeometry x="105" y="420" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-38" value="doctor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="540" width="69" height="38" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="-29" y="502" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-42" value="doctorId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="410" width="69" height="38" as="geometry" />
+          <mxGeometry x="-14" y="400" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-43" value="drugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="450" width="69" height="38" as="geometry" />
