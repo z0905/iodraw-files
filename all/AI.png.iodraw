@@ -47,22 +47,22 @@
           <mxGeometry x="35" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-25" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="95" height="80" as="geometry" />
+          <mxGeometry x="280" y="560" width="69" height="67" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-26" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="450" width="95" height="80" as="geometry" />
+          <mxGeometry x="230" y="450" width="69" height="67" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-27" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="585" width="95" height="80" as="geometry" />
+          <mxGeometry x="220" y="585" width="69" height="67" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-28" value="maxCount" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="480" width="95" height="80" as="geometry" />
+          <mxGeometry x="220" y="480" width="69" height="67" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-29" value="section" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="505" width="95" height="80" as="geometry" />
+          <mxGeometry x="240" y="505" width="69" height="67" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-30" value="level" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="540" width="95" height="80" as="geometry" />
+          <mxGeometry x="190" y="540" width="69" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
