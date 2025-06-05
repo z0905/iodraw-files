@@ -64,6 +64,9 @@
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-32" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="616" width="69" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="ZtQPXQgLfWaQ9767yCvV-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZtQPXQgLfWaQ9767yCvV-33" target="ZtQPXQgLfWaQ9767yCvV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-33" value="userid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="69" height="38" as="geometry" />
         </mxCell>
@@ -92,7 +95,7 @@
           <mxGeometry x="122" y="562" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-42" value="doctorId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="450" width="69" height="38" as="geometry" />
+          <mxGeometry x="430" y="430" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-43" value="drugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="500" width="69" height="38" as="geometry" />
