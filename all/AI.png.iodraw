@@ -95,13 +95,13 @@
           <mxGeometry x="120" y="550" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-41" value="price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="540" width="69" height="38" as="geometry" />
+          <mxGeometry x="-29" y="502" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-42" value="doctorId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="560" width="69" height="38" as="geometry" />
+          <mxGeometry x="40" y="410" width="69" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-43" value="drugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="520" width="69" height="38" as="geometry" />
+          <mxGeometry x="-35" y="450" width="69" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
