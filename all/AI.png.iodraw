@@ -94,8 +94,16 @@
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-41" value="price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="562" width="69" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="ZtQPXQgLfWaQ9767yCvV-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZtQPXQgLfWaQ9767yCvV-42" target="ZtQPXQgLfWaQ9767yCvV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-42" value="doctorId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="450" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtQPXQgLfWaQ9767yCvV-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZtQPXQgLfWaQ9767yCvV-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-43" value="drugs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="500" width="69" height="38" as="geometry" />
