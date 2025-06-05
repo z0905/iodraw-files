@@ -8,22 +8,22 @@
           <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-4" value="id" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="370" width="20" height="30" as="geometry" />
+          <mxGeometry x="70" y="370" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-5" value="account" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="430" width="20" height="80" as="geometry" />
+          <mxGeometry x="110" y="430" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-6" value="password" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="570" width="20" height="80" as="geometry" />
+          <mxGeometry x="80" y="570" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-7" value="name" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="350" width="20" height="80" as="geometry" />
+          <mxGeometry x="190" y="350" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-8" value="sex" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="545" width="20" height="80" as="geometry" />
+          <mxGeometry x="190" y="545" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZtQPXQgLfWaQ9767yCvV-9" value="idNum" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="510" width="20" height="80" as="geometry" />
+          <mxGeometry x="70" y="510" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
