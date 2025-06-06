@@ -7,7 +7,7 @@
         <mxCell id="swOemFE-7UIeCEyNyOK_-1" value="北理二手平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="swOemFE-7UIeCEyNyOK_-3" value="二手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="swOemFE-7UIeCEyNyOK_-3" value="二手商品展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-4" value="消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
