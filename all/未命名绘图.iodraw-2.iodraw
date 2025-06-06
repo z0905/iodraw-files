@@ -79,7 +79,7 @@
           <mxGeometry x="-260" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-27" value="商品展示排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
