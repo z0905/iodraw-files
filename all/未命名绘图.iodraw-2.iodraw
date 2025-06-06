@@ -5,28 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="swOemFE-7UIeCEyNyOK_-1" value="北理二手平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="200" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-3" value="二手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="160" width="80" height="60" as="geometry" />
+          <mxGeometry x="10" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-4" value="消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="80" height="60" as="geometry" />
+          <mxGeometry x="160" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-5" value="卖闲置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="80" height="60" as="geometry" />
+          <mxGeometry x="310" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-6" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="80" height="60" as="geometry" />
+          <mxGeometry x="480" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-7" value="安全中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="260" width="80" height="60" as="geometry" />
+          <mxGeometry x="670" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-8" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="80" height="60" as="geometry" />
+          <mxGeometry x="540" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-10" value="我买到的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="260" width="80" height="60" as="geometry" />
+          <mxGeometry x="410" y="260" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
