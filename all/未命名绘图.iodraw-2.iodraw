@@ -52,13 +52,13 @@
           <mxGeometry x="530" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-7" value="安全中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="674" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-8" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="544" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-10" value="我买到的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="414" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swOemFE-7UIeCEyNyOK_-11" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="230" width="80" height="30" as="geometry" />
