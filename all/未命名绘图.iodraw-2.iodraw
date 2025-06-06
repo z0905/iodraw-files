@@ -72,6 +72,9 @@
         <mxCell id="swOemFE-7UIeCEyNyOK_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.618;entryY=0.141;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="swOemFE-7UIeCEyNyOK_-3" target="swOemFE-7UIeCEyNyOK_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="swOemFE-7UIeCEyNyOK_-25" value="搜索商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
